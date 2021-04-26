@@ -8,9 +8,17 @@
 .image-fond{
   width: inherit;
 }
+.image-chalet-box{
+  text-align: center;
+
+}
+.contact-info{1
+  text-align: center;
+}
 .image-chalet{
   max-width: 300px;
   padding: 10px;
+  border-radius: 15px;
 }
 .image_button {
   width : 300px;
