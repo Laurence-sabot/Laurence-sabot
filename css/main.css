@@ -5,6 +5,8 @@
 /* ==========================================================================
    1.45 Custom
    ========================================================================== */
+
+
 .tarifs-container{
   text-align: center;
 }
@@ -25,7 +27,7 @@
   padding-bottom: 30px;
 }
 .image-fond{
-  width: inherit;
+      width: -webkit-fill-available;
 }
 .image-chalet-box{
   text-align: center;
@@ -54,7 +56,7 @@
 }
 #carousel-area .carousel-item .carousel-caption h4 {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  font-size: 25px !important;
+  font-size: 25px;
 }
 /* ==========================================================================
    2. GENERAL
@@ -1728,7 +1730,7 @@ button:focus {
 
 #carousel-area .carousel-item .carousel-caption h4 {
   color: #ffffff;
-  font-size: 18px;
+  font-size: 30px;
   font-weight: 500;
   margin-bottom: 30px;
 }
